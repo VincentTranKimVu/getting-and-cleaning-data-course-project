@@ -1,4 +1,3 @@
--================
 ## Introduction
 
 This is explained how the run_analysis.R script running.
